@@ -1,0 +1,17 @@
+# Python Virtual Environment
+.venv/
+
+# Compiled Python Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets and Test Cases
+data/
+
+# Local Model Weights
+local_blip_model/
+
+# OS and Editor Files
+.DS_Store
+.vscode/
